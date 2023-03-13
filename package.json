@@ -38,7 +38,7 @@
         "prompt-sync": "^4.2.0",
         "request": "^2.88.2",
         "requests": "^0.3.0",
-        "sequelize": "^6.17.0",
+        "sequelize": "^6.29.0",
         "string-similarity": "",
         "systeminformation": "^5.11.9",
         "totp-generator": "^0.0.13",
